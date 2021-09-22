@@ -1,0 +1,30 @@
+{
+  "name": "darnedog12",
+  "version": "1.0.0",
+  "description": "Just A Personal Card for Daniela Arnedo (Daniela Arnedo)",
+  "main": "card.js",
+  "bin": "./card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:darnedog12/npx-card.git"
+  },
+  "author": "Daniela Arnedo",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "prettyjson": "^1.2.1"
+  }
+}
