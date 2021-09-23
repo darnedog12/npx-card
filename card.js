@@ -12,7 +12,7 @@ const data = {
   name: chalk.bold.yellow('                    Daniela Arnedo Galarza'),
   handle: chalk.white('@darnedog12'),
   work: `${chalk.white('Engineering Leader at')} ${chalk
-    .bold.gray('Condor Labs')}`,
+    .bold.blue('Condor Labs')}`,
   github: chalk.gray('https://github.com/') + chalk.green('darnedog12'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('danielaarnedog'),
   linkedin:
